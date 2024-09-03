@@ -1,0 +1,58 @@
+package com.example;
+
+public class App {
+	
+	
+	public static void main(String[] args) {
+		
+		System.out.println("this is java program using the STS");
+		
+
+		
+		int a1 = 21;
+		
+		int a2;
+		
+		a2= 34;
+		
+		int x, y;
+		
+		x= 7;
+		y=8;
+		
+		
+//		Arthmetic Operator
+		
+		
+		  int result = 8- 7;
+		  
+		  System.out.println(result);
+		  
+		  
+//		  increment and decrement 
+		  
+		   int x1 = 5;
+		   
+		   int c =  x1++;
+		    
+		   
+		   
+		   System.out.println(c);
+		
+		
+		   int d = ++x1;
+		   
+		   System.out.println(d);
+		   
+		   
+//		    moudles operator %
+		   
+		   
+		   int a = 8%5;
+		   
+		   System.out.println(a);
+		
+		
+	}
+
+}
